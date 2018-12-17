@@ -1,2 +1,2 @@
-# semantic_segmantation
-semantic segmentation
+# image_classfication
+image classfication network
